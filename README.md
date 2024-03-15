@@ -13,3 +13,9 @@ So, what did i achieve:
 🍥 I used Pandas library to transform the data. A lot of work went it to transforming the data. The main goal was that the cleaned data will be accessible and I would create an ERD diagram that would accompany it.
 
 🍥 I was able to get more experience with using Pandas and getting more accustom to using Jupyter notebook within the VS Code environment.
+
+Some of the challenges that I faced was:
+
+⚡ Some of the data on the "tailed-beast" endpoint were incomplete. My first thought was access a wiki and web scrape the data however, it was only three rows of data and it would have been faster if I found the data manually and inserted it. As a result, I manually crated 3-dataframes and then uninoned them to the original data frame.
+
+⚡Another challenge was trying to see how the data can be connected. As a result, after investigating all the endpoint, I only used the ones that I thought could be connected with other tables.
